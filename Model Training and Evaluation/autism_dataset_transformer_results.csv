@@ -1,0 +1,14 @@
+Model,Test Accuracy
+DeiT Small,71.66666666666667
+DeiT Tiny,70.66666666666667
+MViT v2 Tiny,66.0
+ConvNeXt Tiny,65.33333333333333
+ConvNeXt Base,65.33333333333333
+DeiT Base,64.0
+Swin Small,63.666666666666664
+CLIP ViT-B/32,63.0
+Swin Tiny,50.0
+ConvNeXt Small,50.0
+Swin Base,50.0
+MViT v2 Small,50.0
+MViT v2 Base,50.0

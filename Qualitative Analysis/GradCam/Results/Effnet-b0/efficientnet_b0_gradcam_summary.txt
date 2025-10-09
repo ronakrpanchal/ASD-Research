@@ -1,0 +1,37 @@
+EfficientNet-B0 GradCAM Analysis Summary
+==================================================
+
+Analysis Timestamp: 2025-10-03T10:39:06.546587
+Total Images Analyzed: 5
+Classes Predicted: {0: 4, 1: 1}
+.3f.3f.3fHigh Confidence (>0.8): 4 images
+Medium Confidence (0.6-0.8): 1 images
+Low Confidence (≤0.6): 0 images
+
+Individual Results:
+------------------------------
+Image: Non_Autistic.111.jpg
+  Predicted Class: 0
+  Confidence: 0.746
+  Images saved in: /kaggle/working/efficientnet_b0_gradcam_images
+
+Image: Autistic.110.jpg
+  Predicted Class: 0
+  Confidence: 1.000
+  Images saved in: /kaggle/working/efficientnet_b0_gradcam_images
+
+Image: Autistic.44.jpg
+  Predicted Class: 0
+  Confidence: 1.000
+  Images saved in: /kaggle/working/efficientnet_b0_gradcam_images
+
+Image: Autistic.134.jpg
+  Predicted Class: 0
+  Confidence: 0.996
+  Images saved in: /kaggle/working/efficientnet_b0_gradcam_images
+
+Image: Non_Autistic.136.jpg
+  Predicted Class: 1
+  Confidence: 1.000
+  Images saved in: /kaggle/working/efficientnet_b0_gradcam_images
+

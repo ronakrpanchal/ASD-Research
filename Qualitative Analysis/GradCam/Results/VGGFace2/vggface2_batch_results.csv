@@ -1,0 +1,7 @@
+image_name,image_path,prediction,confidence,true_label,non_autistic_conf,autistic_conf,correct_prediction
+Non_Autistic.111.jpg,/kaggle/input/autism-image-data/AutismDataset/test/Non_Autistic.111.jpg,0,0.5526860356330872,1,0.5526860356330872,0.5526860356330872,False
+Autistic.110.jpg,/kaggle/input/autism-image-data/AutismDataset/test/Autistic.110.jpg,0,0.5362842082977295,1,0.5362842082977295,0.5362842082977295,False
+Autistic.44.jpg,/kaggle/input/autism-image-data/AutismDataset/test/Autistic.44.jpg,0,0.5566121935844421,1,0.5566121935844421,0.5566121935844421,False
+Autistic.134.jpg,/kaggle/input/autism-image-data/AutismDataset/test/Autistic.134.jpg,0,0.5335931181907654,1,0.5335931181907654,0.5335931181907654,False
+Non_Autistic.111.jpg,/kaggle/input/autism-image-data/AutismDataset/test/Non_Autistic.111.jpg,0,0.5526860356330872,1,0.5526860356330872,0.5526860356330872,False
+Non_Autistic.136.jpg,/kaggle/input/autism-image-data/AutismDataset/test/Non_Autistic.136.jpg,0,0.5183365941047668,1,0.5183365941047668,0.5183365941047668,False

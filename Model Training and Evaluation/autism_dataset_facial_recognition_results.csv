@@ -1,0 +1,4 @@
+Model,Test Accuracy
+FaceNet,87.0
+InsightFace,85.33333333333333
+VGGFace2,82.33333333333333
